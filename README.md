@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akwetey Priscilla 
-- 👀 I’m interested in mobile app and data analysis 
+- 👀 I’m interested in mobile app and web development 
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on new flutter app
 - 📫 you can reach me on @priscillaakwetey@gmail.com
