@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Akwetey Priscilla 
-- 👀 I’m interested in mobile app and web development 
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on new flutter app
-- 📫 you can reach me on @priscillaakwetey@gmail.com
+# 👋 Hi, I’m Akwetey Priscilla  
 
-<!---
-Priscy-code/Priscy-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Flutter & React.js Developer** | **Frontend Developer** → Aspiring **Full-Stack Developer**  
+
+---
+
+### 👀 About Me  
+- 🎨 Passionate about building **beautiful mobile apps** and **dynamic web applications**  
+- 📱 Experienced in **Flutter** for mobile development  
+- 🌐 Skilled in **React.js** for web development  
+- 🎯 Goal: Master backend technologies to become a **Full-Stack Developer**  
+- 🤝 Open to collaborating on **Flutter apps**, **React.js projects**, and **full-stack applications**  
+
