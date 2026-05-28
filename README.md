@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Akwetey Priscilla  
 
-💻 **Flutter & React.js Developer** | **Frontend Developer** → Aspiring **Full-Stack Developer**  
+💻 **Flutter & React.js Developer** | **Frontend Developer** → Aspiring **Software Engineer**  
 
 ---
 
